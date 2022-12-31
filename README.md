@@ -1,4 +1,4 @@
-# Pairwise Testing or All-Pairs Testing
+# [Pairwise Testing or All-Pairs Testing](https://docs.google.com/document/d/e/2PACX-1vTGh5XICnaD1VE72V-AM7J1ihGcLLg6Rc0fGEQWr-d4ep4ClaS8XvhtZhEqCXXpL7pWBt0AtP1lnuzq/pub)
 
 ### Definition
 
@@ -60,6 +60,14 @@ Orthogonal test cases can be useful for testing the compatibility of a web appli
 4. Run the generated test cases to ensure that the application is compatible with the different browser versions and plugin combinations.
 
 Using orthogonal test cases can be an efficient way to test the compatibility of a web application with different browser versions and plugins, as it allows you to cover a large number of combinations using a minimum number of test cases. However, it is important to note that orthogonal test cases may not cover all possible scenarios or edge cases, and it may be necessary to supplement your orthogonal test cases with additional test cases to ensure thorough testing.
+
+----
+
+[Pairwise/All-Pairs Testing file in Word format](https://github.com/lana-20/pairwise-allpairs-testing/blob/main/Pairwise%20Testing.docx)
+
+[All-pairs testing](https://en.wikipedia.org/wiki/All-pairs_testing)
+
+[Pairwise Testing Or All-Pairs Testing Tutorial With Tools And Examples](https://www.softwaretestinghelp.com/what-is-pairwise-testing/)
 
 
 
