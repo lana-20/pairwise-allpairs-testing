@@ -1,4 +1,4 @@
-# [Pairwise Testing or All-Pairs Testing](https://docs.google.com/document/d/e/2PACX-1vTGh5XICnaD1VE72V-AM7J1ihGcLLg6Rc0fGEQWr-d4ep4ClaS8XvhtZhEqCXXpL7pWBt0AtP1lnuzq/pub)
+# [Pairwise/All-Pairs/Combinatorial Testing](https://docs.google.com/document/d/e/2PACX-1vTGh5XICnaD1VE72V-AM7J1ihGcLLg6Rc0fGEQWr-d4ep4ClaS8XvhtZhEqCXXpL7pWBt0AtP1lnuzq/pub)
 
 ### Definition
 
